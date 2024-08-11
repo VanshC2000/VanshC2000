@@ -12,7 +12,7 @@ When I'm not developing predictive models, cleaning messy data or reading to kee
 
 ## Projects
 
-### 1. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/upload/main)
+### 1. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/)
 #### Objective
 The objective of this report is to predict the popularity of articles posted on Mashable by analyzing different models. The focus is on automating the selection process of articles based on their potential to generate high shares, which directly impacts revenue.
 
