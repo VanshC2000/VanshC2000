@@ -24,3 +24,15 @@ Data Analysis, Machine Learning, Predictive Modeling, Model Comparison and Evalu
 
 #### Results
 The Random Forest model is recommended for effectively predicting and selecting high-share articles on Mashable.
+
+### 2. [Visualizing the house-letting scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
+#### Objective
+This is an exploratory analysis to understand how factors such as location, property size, and reviews impact the prices and popularity of Airbnb listings in New York, through interactive visualizations. 
+
+#### Description of data
+The dataset comprises over 41,000 Airbnb listings in New York City, including details on host information, location, room type, number of bedrooms and bathrooms, price, and reviews. 
+
+#### Skills
+Exploratory Data Analysis, Data Visualization, Report Writing
+
+
