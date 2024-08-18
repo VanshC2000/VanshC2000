@@ -25,6 +25,8 @@ R, Data Analysis, Machine Learning, Predictive Modeling, Model Comparison and Ev
 #### Results
 The Random Forest model is recommended for effectively predicting and selecting high-share articles on Mashable.
 
+---
+
 ### 2. [Visualizing the House-Letting Scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
 #### Objective
 This is an exploratory analysis to understand how factors such as location, property size, and reviews impact the prices and popularity of Airbnb listings in New York, through interactive visualizations. 
@@ -35,7 +37,9 @@ The dataset comprises over 41,000 Airbnb listings in New York City, including de
 #### Skills
 Tableau, Exploratory Data Analysis, Data Visualization, Report Writing
 
-### 3. Detecting Visual Product Defects Using Deep Learning
+---
+
+### 3. [Detecting Visual Product Defects Using Deep Learning](https://github.com/VanshC2000/anomaly-detection-deep-learning)
 #### Objective
 This project explores the use of deep learning to automate the inspection process of finished, standardised goods using deep learning models. This reduces the  costs incurred manually inspecting goods at the end of the production process.
 
@@ -48,3 +52,4 @@ Python, Machine Learning, Deep Learning, Model Comparison and Evaluation, Report
 #### Results
 To identify anomalies in a dataset of finished product images, developing a convolutional neural network based on VGG16 yielded the best results, with an F2 Score of 0.953.
 
+---
