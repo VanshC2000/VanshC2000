@@ -20,12 +20,12 @@ The objective of this report is to predict the popularity of articles posted on 
 The public dataset used in this analysis has details of 39645 articles posted on Mashable, a renowned news website and entertainment company. Broadly, this dataset contained information about keywords used, data channels, the day of posting, hyperlinks, the language used, overall sentiment and the total shares for each article. There were 60 possible metrics in the dataset that could have been used to predict shares.
 
 #### Skills
-Data Analysis, Machine Learning, Predictive Modeling, Model Comparison and Evaluation, Report Writing
+R, Data Analysis, Machine Learning, Predictive Modeling, Model Comparison and Evaluation, Report Writing
 
 #### Results
 The Random Forest model is recommended for effectively predicting and selecting high-share articles on Mashable.
 
-### 2. [Visualizing the house-letting scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
+### 2. [Visualizing the House-Letting Scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
 #### Objective
 This is an exploratory analysis to understand how factors such as location, property size, and reviews impact the prices and popularity of Airbnb listings in New York, through interactive visualizations. 
 
@@ -33,6 +33,18 @@ This is an exploratory analysis to understand how factors such as location, prop
 The dataset comprises over 41,000 Airbnb listings in New York City, including details on host information, location, room type, number of bedrooms and bathrooms, price, and reviews. 
 
 #### Skills
-Exploratory Data Analysis, Data Visualization, Report Writing
+Tableau, Exploratory Data Analysis, Data Visualization, Report Writing
 
+### 3. Detecting Visual Product Defects Using Deep Learning
+#### Objective
+This project explores the use of deep learning to automate the inspection process of finished, standardised goods using deep learning models. This reduces the  costs incurred manually inspecting goods at the end of the production process.
+
+#### Description of data 
+For this study, an anomaly detection dataset compiled by MVTec was used. In the dataset, there were 224 images of ‘normal’ optical fibre cables, and 92 images of cables that had visible anomalies. While the dataset used contained images of only optical fibre cables, the study applies to all standardised goods.
+
+#### Skills
+Python, Machine Learning, Deep Learning, Model Comparison and Evaluation, Report Writing
+
+#### Results
+To identify anomalies in a dataset of finished product images, developing a convolutional neural network based on VGG16 yielded the best results, with an F2 Score of 0.953.
 
