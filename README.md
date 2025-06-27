@@ -8,11 +8,29 @@ I'm a recent graduate of the MSc. in Management Analytics Program at Wilfrid Lau
 
 Before I decided to jump across a pond (or 7) from Mumbai, India, I worked at a leading global ad network as a Senior Digital Campaign Manager. I managed a large number of high-budget digital ad campaigns for four different projects. To optimize these campaigns, I monitored several web analytics dashboards and tweaked campaign settings based on current and predicted trends. While not a traditional marketing analytics position, it broadened my understanding of data analytics and strengthened my number-crunching skills. I also found a sense of achievement in knowing that an improvement in the performance of a digital campaign or project can be directly attributed to the decisions and optimisations made by me. This role influenced my career switch to data analytics. 
 
-When I'm not developing predictive models, cleaning messy data or reading to keep up with this dynamic industry, you'll find me in the kitchen experimenting with whacky food recipes 👨‍🍳. On the weekends, you'll find me on a hike, pretending I'm a movie protagonist on a quest for spiritual enlightenment 🌄.
+When I'm not developing predictive models, cleaning messy data or reading to keep up with this dynamic industry, you'll find me in the kitchen experimenting with wacky food recipes 👨‍🍳. On the weekends, you'll find me on a hike, pretending I'm a movie protagonist on a quest for spiritual enlightenment 🌄.
 
 ## Projects
 
-### 1. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/)
+### 1. Dashboard: Maven Café Sales and Promotional Offer Insights
+#### Objective
+This project analyzes 30 days of customer activity at Maven Café to evaluate overall sales performance, effectiveness of promotional offers, and the impact of different marketing channels. The dashboard is designed to uncover behavioral patterns and guide future decisions in planning marketing campaigns.
+
+#### Description of data
+The dataset consists of three linked tables:
+- Offers: Details about each offer including type, reward value, duration, and delivery channels.
+- Customers: Demographics such as age, gender, income, and loyalty membership date.
+- Events: Logs of transactions and offer-related events (received, viewed, completed) with timestamps.
+
+#### Skills
+Power BI, DAX, Data Modeling, Data Visualization, Marketing Analytics, Data Storytelling, Analytical Reporting
+
+#### Results
+The dashboard revealed clear behavior patterns: social media was the most effective channel for offer delivery, sales showed steady growth across the month, and certain customer segments had higher offer completion rates. These insights were used to recommend expanding offer deliveries on social media and refining audience targeting based on engagement behavior.
+
+---
+
+### 2. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/)
 #### Objective
 The objective of this report is to predict the popularity of articles posted on Mashable by analyzing different models. The focus is on automating the selection process of articles based on their potential to generate high shares, which directly impacts revenue.
 
@@ -27,7 +45,7 @@ The Random Forest model is recommended for effectively predicting and selecting 
 
 ---
 
-### 2. [Visualizing the House-Letting Scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
+### 3. [Visualizing the House-Letting Scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
 #### Objective
 This is an exploratory analysis to understand how factors such as location, property size, and reviews impact the prices and popularity of Airbnb listings in New York, through interactive visualizations. 
 
@@ -39,7 +57,7 @@ Tableau, Exploratory Data Analysis, Data Visualization, Report Writing
 
 ---
 
-### 3. [Detecting Visual Product Defects Using Deep Learning](https://github.com/VanshC2000/anomaly-detection-deep-learning)
+### 4. [Detecting Visual Product Defects Using Deep Learning](https://github.com/VanshC2000/anomaly-detection-deep-learning)
 #### Objective
 This project explores the use of deep learning to automate the inspection process of finished, standardised goods using deep learning models. This reduces the  costs incurred manually inspecting goods at the end of the production process.
 
