@@ -12,7 +12,7 @@ When I'm not developing predictive models, cleaning messy data or reading to kee
 
 ## Projects
 
-### 1. Dashboard: Maven Café Sales and Promotional Offer Insights
+### 1. [Dashboard: Maven Café Sales and Promotional Offer Insights](https://github.com/VanshC2000/Cafe_Sales_and_Promo_Insights)
 #### Objective
 This project analyzes 30 days of customer activity at Maven Café to evaluate overall sales performance, effectiveness of promotional offers, and the impact of different marketing channels. The dashboard is designed to uncover behavioral patterns and guide future decisions in planning marketing campaigns.
 
