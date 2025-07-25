@@ -29,8 +29,22 @@ Power BI, DAX, Data Modeling, Data Visualization, Marketing Analytics, Data Stor
 The dashboard revealed clear behavior patterns: social media was the most effective channel for offer delivery, sales showed steady growth across the month, and certain customer segments had higher offer completion rates. These insights were used to recommend expanding offer deliveries on social media and refining audience targeting based on engagement behavior.
 
 ---
+### 2. [E-Commerce Order and Customer Analysis Using SQL & Tableau](https://github.com/VanshC2000/E_Commerce_Data_Analysis)
+#### Objective
+This project analyzes a year of transactional data from an e-commerce retailer to identify patterns in sales performance, customer segmentation, and return behavior. The objective was to build end-to-end data insights using SQL for querying and Tableau for interactive visual storytelling.
 
-### 2. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/)
+#### Description of data
+The dataset was sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail). It was first normalized using Power Query, and includes four primary tables: Invoice, which contains transaction-level data with timestamps and customer IDs; Invoiceline, detailing individual line items such as quantity and price; Product, which lists product names and stock codes; and Customer, which provides customer IDs and countries. The data originates from a real but anonymized UK-based business, which is referred to in this project as ShopSmart UK.
+
+#### Skills
+MySQL, Tableau, MS Excel, Power Query, Database Normalization, Data Visualization, Exploratory Data Analysis, Cohort Analysis, RFM Segmentation, KPI Design, Analytical Reporting
+
+#### Results
+Sales revenue nearly tripled from ~$509K in Q2 2011 to $1.46M by November, with over 90% of sales coming from domestic orders. Customer analysis revealed that the largest segment (622 customers) had low recency and frequency scores, with many following predictable bi-weekly or monthly purchasing cycles. Order and return patterns showed that lower-value orders (under $50) had significantly lower cancellation rates.
+
+---
+
+### 3. [Predicting the Popularity of Online News Articles](https://github.com/VanshC2000/Article_Popularity_Prediction/)
 #### Objective
 The objective of this report is to predict the popularity of articles posted on Mashable by analyzing different models. The focus is on automating the selection process of articles based on their potential to generate high shares, which directly impacts revenue.
 
@@ -42,18 +56,6 @@ R, Data Analysis, Machine Learning, Predictive Modeling, Model Comparison and Ev
 
 #### Results
 The Random Forest model is recommended for effectively predicting and selecting high-share articles on Mashable.
-
----
-
-### 3. [Visualizing the House-Letting Scenario in New York](https://github.com/VanshC2000/nyc-airbnb-visualization)
-#### Objective
-This is an exploratory analysis to understand how factors such as location, property size, and reviews impact the prices and popularity of Airbnb listings in New York, through interactive visualizations. 
-
-#### Description of data
-The dataset comprises over 41,000 Airbnb listings in New York City, including details on host information, location, room type, number of bedrooms and bathrooms, price, and reviews. 
-
-#### Skills
-Tableau, Exploratory Data Analysis, Data Visualization, Report Writing
 
 ---
 
